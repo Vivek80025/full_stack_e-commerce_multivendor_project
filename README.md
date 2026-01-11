@@ -1,11 +1,11 @@
 # 🛒 E-Commerce Multivendor Platform - Vivek Bazzar
 
-[cite_start]A full-stack multivendor e-commerce solution built with **Spring Boot** and **React**, featuring role-based access for customers, sellers, and admins[cite: 15, 18].
+A full-stack multivendor e-commerce solution built with **Spring Boot** and **React**, featuring role-based access for customers, sellers, and admins.
 
 ## 🔗 Project Repositories
-* **Frontend:** [https://github.com/Vivek80025/ecommerce_multivendor_frontend]
-* **Backend:** [https://github.com/Vivek80025/ecommerce_multivendor_backend]
-* [cite_start]**Live Demo:** [https://viva-bazar-ecommerce.vercel.app] [cite: 17]
+* **Frontend:** https://github.com/Vivek80025/ecommerce_multivendor_frontend
+* **Backend:** https://github.com/Vivek80025/ecommerce_multivendor_backend
+* **Live Demo:** https://viva-bazar-ecommerce.vercel.app
 
 ## 🛠️ Tech Stack
 ### Frontend
